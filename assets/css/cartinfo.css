@@ -1,0 +1,11 @@
+.fit-image-cart{
+    width: 300px;
+    object-fit: contain;
+    height: 200px; /* only if you want fixed height */
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+  
